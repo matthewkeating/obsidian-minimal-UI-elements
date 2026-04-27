@@ -90,6 +90,16 @@ div.edit-block-button {
 }
 
 
+/* color the valut selector */ 
+div.workspace-sidedock-vault-profile {
+	background-color: #F3F3F3 !important;
+}
+/* remove the actions/buttons from the vault selector in the lower left */
+div.workspace-drawer-vault-actions {
+	display: none !important;
+}
+
+
 /* by convention (and design), markdown inserts a blank line before tables. I find this annoying. This doesn't stop Obsidian from doing
    this, but it makes the line less visible */
 .cm-line:has(+ .cm-embed-block.cm-table-widget) br {
