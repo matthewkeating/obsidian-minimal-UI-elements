@@ -1,9 +1,9 @@
 {
-  "id": "view-actions-mover",
-  "name": "View Actions Mover",
+  "id": "obsidian-minimal-UI-elements",
+  "name": "Minimal UI Elements",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Moves the view-actions toolbar into the workspace tab header, to the right of the tab list.",
+  "description": "An Obsidian plugin that provides minimalist interface.",
   "author": "Matt Keating",
   "authorUrl": "",
   "isDesktopOnly": false
