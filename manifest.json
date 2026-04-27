@@ -1,0 +1,10 @@
+{
+  "id": "view-actions-mover",
+  "name": "View Actions Mover",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Moves the view-actions toolbar into the workspace tab header, to the right of the tab list.",
+  "author": "Matt Keating",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
