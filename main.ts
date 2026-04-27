@@ -50,6 +50,7 @@ export default class ViewActionsMover extends Plugin {
 
 			const tabsEl = root.closest(".workspace-tabs");
 			if (!tabsEl || seen.has(tabsEl)) return;
+			if (tabsEl.closest(".mod-sidedock")) return;
 			seen.add(tabsEl);
 
 			this.moveViewActionsInTabsEl(tabsEl as HTMLElement);
