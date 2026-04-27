@@ -1,4 +1,4 @@
-# View Actions Mover
+# Obsidian Minimal UI elements
 
 An Obsidian plugin that provides a minimal UI experience.
 
