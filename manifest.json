@@ -1,9 +1,9 @@
 {
-  "id": "obsidian-minimal-UI-elements",
-  "name": "Minimal UI Elements",
+  "id": "obsidian-view-actions-mover",
+  "name": "View Actions Mover",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "An Obsidian plugin that provides minimalist interface.",
+  "description": "An Obsidian plugin that provides moves the view actions to the tab header.",
   "author": "Matt Keating",
   "authorUrl": "",
   "isDesktopOnly": false
