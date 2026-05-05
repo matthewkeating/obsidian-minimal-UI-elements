@@ -40,7 +40,7 @@ This watches for changes and rebuilds `main.js` automatically. You can symlink t
 
 ```bash
 ln -s /path/to/obsidian-minimal-UI-elements \
-      /path/to/your-vault/.obsidian/plugins/obsidian-minimal-UI-elements
+      /path/to/your-vault/.obsidian/plugins/obsidian-view-actions-mover
 ```
 
 Then use the [Hot Reload](https://github.com/pjeby/hot-reload) community plugin to pick up changes without restarting Obsidian.
